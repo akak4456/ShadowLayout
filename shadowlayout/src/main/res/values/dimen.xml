@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="def_shadow_blur">38dp</dimen>
+</resources>
